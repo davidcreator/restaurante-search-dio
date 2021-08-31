@@ -80,10 +80,10 @@ const Home = () => {
     <Wrapper>
       <Container>
         <Search>
-          <Logo src={logo} alt="logo da empresa" />
+          <Logo src={logo} alt="Restaurante Finder" />
           <TextField
             outlined
-            label="Pesquisar"
+            label="Pesquisar Restaurantes"
             trailingIcon={<MaterialIcon role="button" icon="search" />}>
             <Input type="text" value={value} onKeyPress={handleKeyPress} onChange={handleChange} />
           </TextField>
