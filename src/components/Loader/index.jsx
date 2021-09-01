@@ -1,7 +1,7 @@
 import React from 'react';
 import Lottie from 'react-lottie';
 
-import animationData from '../../assets/restaurants-loading.json';
+import animationData from '../../assets/restaurants-delivery.json';
 
 export default () => {
   const defaultOptions = {

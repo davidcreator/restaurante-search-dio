@@ -13,7 +13,7 @@ export const Overlay = styled.div`
   width: 100%;
   height: 100%;
 
-  background: rgba(78, 89, 131, 0.5);
+  background: rgba(244, 172, 26, 0.5);
   backdrop-filter: blur(5px);
 
   z-index: 999;
@@ -30,7 +30,7 @@ export const Dialog = styled.div`
 
   background-color: #ffffff;
 
-  box-shadow: 0px 0px 32px rgba(78, 89, 131, 0.2);
+  box-shadow: 0px 0px 32px rgba(244, 172, 26, 0.2);
   border-radius: 8px;
 `;
 Dialog.displayName = 'Dialog';
