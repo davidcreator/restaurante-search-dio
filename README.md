@@ -1,3 +1,9 @@
+# Restaurant - Search - DIO
+
+Site com sistema de busca utilizando Google Maps e Google Place consulta através de API
+
+![full_screen](D:\wamp64\www\restaurants-search\public\images\full_screen.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
