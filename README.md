@@ -1,4 +1,4 @@
-# Restaurant - Search - DIO
+# Restaurant - Search
 
 Site com sistema de busca utilizando Google Maps e Google Place consulta através de API
 
